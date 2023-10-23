@@ -1,0 +1,17 @@
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.csproj.AssemblyReference.cache
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.NoteTaker.resources
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.csproj.GenerateResource.cache
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.AssemblyInfoInputs.cache
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.AssemblyInfo.cs
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.csproj.CoreCompileInputs.cache
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.exe
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.deps.json
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.runtimeconfig.json
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.dll
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\bin\Debug\net6.0-windows\NoteTakingApp.pdb
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.dll
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\refint\NoteTakingApp.dll
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.pdb
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\NoteTakingApp.genruntimeconfig.cache
+G:\Microsoft visual studio\repos\Projects\NoteTakingApp\obj\Debug\net6.0-windows\ref\NoteTakingApp.dll
